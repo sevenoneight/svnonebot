@@ -1,4 +1,7 @@
 # svnonebot
 # tools
 # install
-# Feathures
+# feathures
+# notes
+# special thanks
+# group
